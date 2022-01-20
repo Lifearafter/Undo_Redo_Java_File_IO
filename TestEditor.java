@@ -1,4 +1,4 @@
-package Undo-Redo---Java-File-IO;
+package Undo_Redo_Java_File_IO;
 
 public class TestEditor {
   public static void main(String[] args) {
